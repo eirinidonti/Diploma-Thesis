@@ -4,7 +4,6 @@
 
 My [Diploma Thesis](http://artemis.cslab.ece.ntua.gr:8080/jspui/bitstream/123456789/19295/1/Diploma_Thesis_Eirini_Donti.pdf) titled "*Ανάλυση Στοιχείων Χρήσης Ψηφιακού Αποθετηρίου*" is available in the [Artemis NTUA Repository](http://artemis.cslab.ece.ntua.gr:8080/jspui/handle/123456789/19295).
 
-### Structure
 ---
 #### Περίληψη
 
