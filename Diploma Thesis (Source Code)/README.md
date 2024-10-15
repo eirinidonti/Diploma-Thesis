@@ -1,13 +1,13 @@
 # Diploma Thesis
-> Source Code for **Diploma Thesis**
+> Source Code
 
-### Structure
+### Data Analysis
 ---
-#### Data Analysis
 
 
     
-#### Time Series Forecasting
+### Time Series Forecasting
+---
 
 
  
