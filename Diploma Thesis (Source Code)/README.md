@@ -5,7 +5,7 @@
 ---
 #### Data Analysis
 
-The AI course includes theoretical exercises that challenge students to analyze algorithms (e.g. A*, Hill Climbing, Best First, Branch and Bound) and solve complex problems, deepening their understanding of fundamental AI concepts and algorithms.
+
     
 #### Time Series Forecasting
 
