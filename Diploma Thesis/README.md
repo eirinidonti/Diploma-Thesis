@@ -1,6 +1,5 @@
 # Diploma Thesis
-> Ανάλυση Στοιχείων Χρήσης Ψηφιακού Αποθετηρίου (Ψηφιακό Αποθετήριο ΚΑΛΛΙΠΟΣ)
-> Analysis of Digital Repository Usage Data (Digital Repository KALLIPOS)
+> Ανάλυση Στοιχείων Χρήσης Ψηφιακού Αποθετηρίου (Ψηφιακό Αποθετήριο ΚΑΛΛΙΠΟΣ) /n Analysis of Digital Repository Usage Data (Digital Repository KALLIPOS)
 
 ### Structure
 ---
