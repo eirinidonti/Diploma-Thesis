@@ -1,17 +1,7 @@
 # Diploma Thesis
 > Source Code
 
-### Data Analysis
----
-
-
-    
-### Time Series Forecasting
----
-
-
- 
-[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+Data Analysis and Time Series Forecasting code for my Diploma Thesis with title "*Ανάλυση Στοιχείων Χρήσης Ψηφιακού Αποθετηρίου*" [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 
 ### Authors
 ---
