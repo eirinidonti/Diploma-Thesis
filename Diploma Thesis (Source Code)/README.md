@@ -3,7 +3,7 @@
 
 ### Data Analysis and Time Series Forecasting
 ---
-The source code developed for my diploma thesis titled "*Ανάλυση Στοιχείων Χρήσης Ψηφιακού Αποθετηρίου*". The primary objective of the code is to analyze user interaction and to forecast the number of new users for the KALLIPOS repository. [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+The source code developed for my diploma thesis titled "*Ανάλυση Στοιχείων Χρήσης Ψηφιακού Αποθετηρίου*". The primary objective of the code is to analyze user interaction and to forecast the number of new users for the KALLIPOS digital repository. [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 
 ### Authors
 ---
